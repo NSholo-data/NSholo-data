@@ -5,6 +5,8 @@
 - 🌱 Graduate of Yandex.Practicum
 - 💞️ I am looking for opportunities for cooperation in the field of data analytics and machine learning
 - 📫 t.me/natalya_sholokhova
+- https://www.kaggle.com/sholokhovan
+- sholohova.natalia@yandex.ru
 
 <!---
 NSholo-data/NSholo-data is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
