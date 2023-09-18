@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm <a href="https://daniilshat.ru/" target="_blank"> @NSholo-data</a> 
+<h1 align="center">Hi, I'm <a href="https://daniilshat.ru/" target="_blank"> Наталья Шолохова  @NSholo-data</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="16"/></h1>
  
 
