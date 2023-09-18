@@ -4,7 +4,7 @@
 
 - 🌱 Graduate of Yandex.Practicum
 - 💞️ I am looking for opportunities for cooperation in the field of data analytics and machine learning
-- 📫 t.me/natalya_sholokhova
+- t.me/natalya_sholokhova
 - https://www.kaggle.com/sholokhovan
 - sholohova.natalia@yandex.ru
 
