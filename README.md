@@ -13,18 +13,6 @@
 
 ---
 
-### 💻 Пройденные курсы:
-
-|Курсы| Электронный сертификат | Дата окончания |
-
-|----------------------------------------------------------------|-----------------------------|---------------|
-
-| stepik.org/"Поколение Python": курс для начинающиx  | https://stepik.org/cert/1909891 | 01/2023 |
-
-| stepik.org/Основы статистики | https://stepik.org/cert/1983182 | 03/2023 |
-
-| stepik.org/DataScience с Глебом Михайловым  |https://stepik.org/cert/2163187| 01/2023 - 01/2023 |
-
 <!---
 NSholo-data/NSholo-data is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
