@@ -3,8 +3,8 @@
  
 
 - 🌱 Graduate of Yandex.Practicum
-- 💞️ I am looking for opportunities for cooperation in the field of data analytics and machine learning
-- telegram: @natalya_sholokhova
+- Saint-Petersburg. I am looking for opportunities for cooperation in the field of data analytics and machine learning
+- telegram: http://t.me/natalya_sholokhova
 - kaggle: https://www.kaggle.com/sholokhovan
 - 📧sholohova.natalia@yandex.ru
 
